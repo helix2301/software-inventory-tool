@@ -1,0 +1,319 @@
+Number of installed apps: 318
+Name=Visual Studio Community 2019, Version=16.11.2, Publisher=Microsoft Corporation
+Name=Adobe Genuine Service, Version=undefined, Publisher=Adobe
+Name=Angry IP Scanner, Version=3.7.6, Publisher=Angry IP Scanner
+Name=Awesomium SDK, Version=1.6.3, Publisher=Khrona LLC
+Name=FileZilla Client 3.55.0, Version=3.55.0, Publisher=Tim Kosse
+Name=Google Chrome, Version=93.0.4577.82, Publisher=Google LLC
+Name=Inno Setup version 6.2.0, Version=6.2.0, Publisher=jrsoftware.org
+Name=MarkdownPad 2, Version=2.5.0.27920, Publisher=Apricity Software LLC
+Name=Microsoft Azure Storage Emulator - v5.10, Version=5.10.19227.2113, Publisher=Microsoft Corporation
+Name=Microsoft Edge, Version=94.0.992.31, Publisher=Microsoft Corporation
+Name=Microsoft Edge Update, Version=1.3.151.27, Publisher=undefined
+Name=Microsoft Edge WebView2 Runtime, Version=93.0.961.52, Publisher=Microsoft Corporation
+Name=NirSoft BlueScreenView, Version=undefined, Publisher=undefined
+Name=Nmap 7.91, Version=7.91, Publisher=Nmap Project
+Name=Npcap, Version=1.10, Publisher=Nmap Project
+Name=OWASP Zed Attack Proxy 2.10.0, Version=2.10.0, Publisher=OWASP ZAP
+Name=PowerLed 2.87.3, Version=undefined, Publisher=TF-TOP
+Name=PyCharm 2020.3.5, Version=203.7717.81, Publisher=JetBrains s.r.o.
+Name=Wireshark 3.4.4 64-bit, Version=3.4.4, Publisher=The Wireshark developer community, https://www.wireshark.org
+Name=Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664, Version=12.0.40664.0, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501, Version=12.0.30501.0, Publisher=Microsoft Corporation
+Name=vs_FileTracker_Singleton, Version=16.10.31303, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Tools arm64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows IoT Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=windows_toolscorepkg, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=vs_minshellmsires, Version=16.10.31303, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Diagnostic Pack for Visual Studio, Version=16.11.75.64347, Publisher=Microsoft Corporation
+Name=WinRT Intellisense UAP - en-us, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Epic Online Services, Version=1.1.11.0, Publisher=Epic Games, Inc.
+Name=Windows Simulator - ENU, Version=16.0.28522, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps DirectX x86 Remote, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_filehandler_amd64, Version=16.11.31503, Publisher=Microsoft Corporation
+Name=icecap_collection_neutral, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core Runtime - 3.1.18 (x86), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.28.29910, Version=14.28.29910, Publisher=Microsoft Corporation
+Name=Microsoft .NET CoreRuntime SDK, Version=1.1.27004.0, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005, Version=12.0.21005, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT Desktop Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=WinRT Intellisense PPI - en-us, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Libs x64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.7.2 Targeting Pack, Version=4.7.03062, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Tools x86, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps Libs, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=WinRT Intellisense IoT - Other Languages, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core 3.1.18 Shared Framework (x86), Version=3.1.18.21365, Publisher=Microsoft Corporation
+Name=Java 8 Update 281, Version=8.0.2810.9, Publisher=Oracle Corporation
+Name=Windows App Certification Kit SupportedApiList x86, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_clickoncebootstrappermsires, Version=16.0.28329, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps Contracts, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Libs arm, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=WinAppDeploy, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.6 Targeting Pack, Version=4.6.00081, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps Metadata, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Facade Windows WinMD Versioned, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_clickoncesigntoolmsi, Version=16.0.28329, Publisher=Microsoft Corporation
+Name=Windows SDK DirectX x86 Remote, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=WinRT Intellisense IoT - en-us, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_communitymsires, Version=16.10.31213, Publisher=Microsoft Corporation
+Name=icecap_collectionresourcesx64, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Headers x86, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft Azure Storage Emulator - v5.10, Version=5.10.19227.2113, Publisher=Microsoft Corporation
+Name=Launcher Prerequisites (x64), Version=1.0.0.0, Publisher=Epic Games, Inc.
+Name=Windows SDK Modern Non-Versioned Developer Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Redistributables, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=WinRT Intellisense Mobile - en-us, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows Software Development Kit - Windows 10.0.19041.685, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET CoreRuntime For CoreCon, Version=1.0.0.0, Publisher=Microsoft Corporation
+Name=Windows IoT Extension SDK Contracts, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Web Tools Packages 16.0 - ENU, Version=1.0.21125.0, Publisher=Microsoft Corporation
+Name=Java Auto Updater, Version=2.8.281.9, Publisher=Oracle Corporation
+Name=Windows SDK for Windows Store Apps Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Headers arm, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Host FX Resolver - 5.0.9 (x86), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Universal CRT Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_minshellmsi, Version=16.11.31503, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.28.29910, Version=14.28.29910.0, Publisher=Microsoft Corporation
+Name=Dell SupportAssist Remediation, Version=5.4.3.15135, Publisher=Dell Inc.
+Name=Dell Digital Delivery Services, Version=4.0.92.0, Publisher=Dell Inc.
+Name=Microsoft .NET Framework 4.5 Multi-Targeting Pack, Version=4.5.50710, Publisher=Microsoft Corporation
+Name=ClickOnce Bootstrapper Package for Microsoft .NET Framework, Version=4.8.04162, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Runtime - 3.1.18 (x86), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Windows Team Extension SDK Contracts, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=MarkdownPad 2, Version=2.5.0.27920, Publisher=Apricity Software LLC
+Name=Windows App Certification Kit x64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Intel(R) Dynamic Tuning, Version=8.7.10600.20700, Publisher=Intel Corporation
+Name=Microsoft .NET Framework 4.5.1 Multi-Targeting Pack, Version=4.5.50932, Publisher=Microsoft Corporation
+Name=Universal CRT Headers Libraries and Sources, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Runtime - 5.0.9 (x86), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Windows Phone SDK 8.0 Assemblies for Visual Studio 2019, Version=16.0.31404, Publisher=Microsoft Corporation
+Name=vs_filehandler_x86, Version=16.11.31503, Publisher=Microsoft Corporation
+Name=TypeScript SDK, Version=4.3.5.0, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2019 X86 Additional Runtime - 14.28.29910, Version=14.28.29910, Publisher=Microsoft Corporation
+Name=vs_clickoncebootstrappermsi, Version=16.10.31206, Publisher=Microsoft Corporation
+Name=Windows Mobile Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft TestPlatform SDK Local Feed, Version=16.11.0.4953698, Publisher=Microsoft
+Name=Microsoft System CLR Types for SQL Server 2019 CTP2.2, Version=15.0.1200.24, Publisher=Microsoft Corporation
+Name=SDK ARM Redistributables, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Teams Machine-Wide Installer, Version=1.4.0.2781, Publisher=Microsoft Corporation
+Name=Microsoft NetStandard SDK, Version=15.0.51105, Publisher=Microsoft Corporation
+Name=Windows Mobile Extension SDK Contracts, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=MSI Development Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT Desktop Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Windows SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=IntelliTraceProfilerProxy, Version=15.0.18198.01, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Libs x86, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Orca, Version=3.1.3790.0000, Publisher=Microsoft Corporation
+Name=WinRT Intellisense UAP - Other Languages, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_minshellinteropmsi, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.6.1 Targeting Pack, Version=4.6.01055, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps Headers, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK ARM Desktop Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.8 SDK, Version=4.8.03928, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Libs arm64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support, Version=15.0.27520, Publisher=Microsoft Corporation
+Name=vs_SQLClickOnceBootstrappermsi, Version=16.10.31205, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161, Version=9.0.30729.6161, Publisher=Microsoft Corporation
+Name=Intel® Integrated Sensor Solution, Version=3.10.100.4122, Publisher=Intel Corporation
+Name=Windows Desktop Extension SDK Contracts, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Awesomium SDK, Version=1.6.6, Publisher=Khrona LLC
+Name=Windows SDK EULA, Version=10.1.19041.685, Publisher=Microsoft Corporations
+Name=Universal CRT Redistributable, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Apps, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=VS Immersive Activate Helper, Version=16.0.102.0, Publisher=Microsoft Corporation
+Name=Epic Games Launcher, Version=1.2.17.0, Publisher=Epic Games, Inc.
+Name=Universal General MIDI DLS Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Adobe Refresh Manager, Version=1.8.0, Publisher=Adobe Systems Incorporated
+Name=Adobe Acrobat DC (2015), Version=15.006.30527, Publisher=Adobe Systems Incorporated
+Name=vs_devenvmsi, Version=16.0.28329, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT ARM64 Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Python Launcher, Version=3.7.7118.0, Publisher=Python Software Foundation
+Name=WinRT Intellisense Desktop - Other Languages, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.7.2 Targeting Pack (ENU), Version=4.7.03062, Publisher=Microsoft Corporation
+Name=vs_BlendMsi, Version=16.0.28329, Publisher=Microsoft Corporation
+Name=Windows SDK Signing Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4.5.2 Multi-Targeting Pack, Version=4.5.51209, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Runtime - 5.0.9 (x86), Version=40.36.30315, Publisher=Microsoft Corporation
+Name=WinRT Intellisense Desktop - en-us, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Universal CRT Tools x86, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Microsoft UniversalWindowsPlatform SDK, Version=15.9.14, Publisher=Microsoft
+Name=Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU), Version=4.8.03761, Publisher=Microsoft Corporation
+Name=Visual C++ Library CRT Desktop Appx Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.28.29910, Version=14.28.29910.0, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Headers x64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Headers arm64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vcpp_crt.redist.clickonce, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio Setup Configuration, Version=2.7.3111.17308, Publisher=Microsoft Corporation
+Name=Windows Team Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=vs_communitymsi, Version=16.11.31613, Publisher=Microsoft Corporation
+Name=Microsoft .NET Framework 4 Multi-Targeting Pack, Version=4.0.30319, Publisher=Microsoft Corporation
+Name=Update for  (KB2504637), Version=1, Publisher=Microsoft Corporation
+Name=icecap_collectionresources, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=Windows Desktop Extension SDK, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=MediaStar Evolution Media Portal Controls, Version=2.0.2, Publisher=Cabletime Limited
+Name=Windows SDK AddOn, Version=10.1.0.0, Publisher=Microsoft Corporation
+Name=Intel Software Package, Version=8.7.10600.20700, Publisher=Intel
+Name=vs_tipsmsi, Version=16.0.28329, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio Setup WMI Provider, Version=2.7.3111.17308, Publisher=Microsoft Corporation
+Name=GoTo Opener, Version=1.0.539, Publisher=LogMeIn, Inc.
+Name=Kits Configuration Installer, Version=10.1.19041.685, Publisher=Microsoft
+Name=Windows Simulator, Version=16.0.28522, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core 5.0.9 Shared Framework (x86), Version=5.0.9.21365, Publisher=Microsoft Corporation
+Name=Dell SupportAssist OS Recovery Plugin for Dell Update, Version=5.4.1.14954, Publisher=Dell Inc.
+Name=Visual C++ Library CRT Appx Resource Package, Version=14.29.30133, Publisher=Microsoft Corporation
+Name=Microsoft .NET Native SDK, Version=15.0.24211.07, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219, Version=10.0.40219, Publisher=Microsoft Corporation
+Name=Realtek Audio Driver, Version=6.0.9098.1, Publisher=Realtek Semiconductor Corp.
+Name=Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501, Version=12.0.30501.0, Publisher=Microsoft Corporation
+Name=Entity Framework 6.2.0 Tools  for Visual Studio 2019, Version=6.2.0.0, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio Tools for Applications 2017, Version=15.0.27520, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005, Version=12.0.21005, Publisher=Microsoft Corporation
+Name=Windows SDK Desktop Tools x64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windscribe, Version=2.2 Build 10, Publisher=Windscribe Limited
+Name=Windows SDK Modern Versioned Developer Tools, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=SDK ARM Additions, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=WinRT Intellisense PPI - Other Languages, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows SDK for Windows Store Managed Apps Libs, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=7-Zip 19.00 (x64), Version=19.00, Publisher=Igor Pavlov
+Name=CutePDF Writer, Version= 4.0, Publisher=Acro Software Inc.
+Name=GIMP 2.10.24, Version=2.10.24, Publisher=The GIMP Team
+Name=Microsoft Azure Compute Emulator - v2.9.6, Version=2.9.8899.26, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64), Version=10.0.50903, Publisher=Microsoft Corporation
+Name=Mozilla Firefox (x64 en-US), Version=92.0.1, Publisher=Mozilla
+Name=Mozilla Maintenance Service, Version=86.0.1, Publisher=Mozilla
+Name=Microsoft 365 - en-us, Version=16.0.14326.20404, Publisher=Microsoft Corporation
+Name=PostgreSQL 10 , Version=10, Publisher=PostgreSQL Global Development Group
+Name=Sublime Text 3, Version=undefined, Publisher=Sublime HQ Pty Ltd
+Name=XAMPP, Version=8.0.3-0, Publisher=Bitnami
+Name=Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664, Version=12.0.40664, Publisher=Microsoft Corporation
+Name=DB Browser for SQLite, Version=3.12.1, Publisher=DB Browser for SQLite Team
+Name=Microsoft .NET Core AppHost Pack - 3.1.18 (x64), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2019 X64 Additional Runtime - 14.28.29910, Version=14.28.29910, Publisher=Microsoft Corporation
+Name=IIS Express Application Compatibility Database for x64, Version=undefined, Publisher=undefined
+Name=Microsoft .NET AppHost Pack - 5.0.9 (x64), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Microsoft Azure Compute Emulator - v2.9.6, Version=2.9.8899.26, Publisher=Microsoft Corporation
+Name=Microsoft .NET AppHost Pack - 5.0.9 (x64_x86), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Dell Power Manager Service, Version=3.9.0, Publisher=Dell Inc.
+Name=IntelliTraceProfilerProxy, Version=15.0.18198.01, Publisher=Microsoft Corporation
+Name=Intel(R) Management Engine Components, Version=2117.15.0.2272, Publisher=Intel Corporation
+Name=DiagnosticsHub_CollectionService, Version=16.1.28901, Publisher=Microsoft Corporation
+Name=icecap_collection_x64, Version=16.10.31306, Publisher=Microsoft Corporation
+Name=Dell Mobile Connect Drivers, Version=3.1.9518, Publisher=Screenovate Technologies Ltd.
+Name=Microsoft Web Deploy 4.0, Version=10.0.3802, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core Targeting Pack - 3.1.0 (x64), Version=24.64.28315, Publisher=Microsoft Corporation
+Name=Microsoft .NET Targeting Pack - 5.0.0 (x64), Version=40.0.29419, Publisher=Microsoft Corporation
+Name=Intel(R) LMS, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Intel(R) Management Engine Components, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Microsoft .NET Core Runtime - 3.1.18 (x64), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Microsoft Command Line Utilities 15 for SQL Server, Version=15.0.1300.359, Publisher=Microsoft Corporation
+Name=Intel(R) Management Engine Components, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Dell Command | Update for Windows 10, Version=4.3.0, Publisher=Dell Inc.
+Name=Microsoft .NET SDK 5.0.400 (x64) from Visual Studio, Version=5.4.21.37610, Publisher=Microsoft Corporation
+Name=Microsoft .NET Toolset 5.0.400 (x64), Version=20.3.41002, Publisher=Microsoft Corporation
+Name=Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664, Version=12.0.40664, Publisher=Microsoft Corporation
+Name=Microsoft .NET AppHost Pack - 5.0.9 (x64_arm), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Goodix Fingerprint Driver, Version=3.0.37.400, Publisher=Goodix, Inc.
+Name=Azure Data Studio, Version=1.25.1, Publisher=Microsoft Corporation
+Name=Workflow Manager Client 1.0, Version=2.1.10525.2, Publisher=Microsoft Corporation
+Name=Google Drive, Version=51.0.14.0, Publisher=Google LLC
+Name=Active Directory Authentication Library for SQL Server, Version=15.0.1300.359, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio Installer, Version=2.11.35.61819, Publisher=Microsoft Corporation
+Name=Oracle VM VirtualBox 6.1.26, Version=6.1.26, Publisher=Oracle Corporation
+Name=Microsoft OLE DB Driver for SQL Server, Version=18.3.0.0, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Targeting Pack - 3.1.0 (x64), Version=24.64.28315, Publisher=Microsoft Corporation
+Name=Dell SupportAssist Remediation, Version=5.4.3.15135, Publisher=Dell Inc.
+Name=Dynamic Application Loader Host Interface Service, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Microsoft Update Health Tools, Version=2.83.0.0, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core 5.0.0 Targeting Pack (x64), Version=5.0.0.20526, Publisher=Microsoft Corporation
+Name=Microsoft .NET Host - 5.0.9 (x64), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Runtime - 3.1.18 (x64), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Application Verifier x64 External Package, Version=10.1.19041.685, Publisher=Microsoft
+Name=Microsoft System CLR Types for SQL Server 2019 CTP2.2, Version=15.0.1200.24, Publisher=Microsoft Corporation
+Name=Dell SupportAssist OS Recovery Plugin for Dell Update, Version=5.4.1.14954, Publisher=Dell Inc.
+Name=Office 16 Click-to-Run Licensing Component, Version=16.0.14326.20404, Publisher=Microsoft Corporation
+Name=Office 16 Click-to-Run Extensibility Component, Version=16.0.14326.20404, Publisher=Microsoft Corporation
+Name=Office 16 Click-to-Run Localization Component, Version=16.0.14131.20278, Publisher=Microsoft Corporation
+Name=Microsoft SQL Server 2016 LocalDB , Version=13.1.4001.0, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core 3.1.18 Shared Framework (x64), Version=3.1.18.21365, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core AppHost Pack - 3.1.18 (x64_x86), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=Microsoft Visual Studio 2010 Tools for Office Runtime (x64), Version=10.0.50908, Publisher=Microsoft Corporation
+Name=Dell SupportAssist, Version=3.10.3.3, Publisher=Dell Inc.
+Name=VS Script Debugging Common, Version=16.0.102.0, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core AppHost Pack - 3.1.18 (x64_arm64), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=IIS 10.0 Express, Version=10.0.05512, Publisher=Microsoft Corporation
+Name=Microsoft .NET Standard Targeting Pack - 2.1.0 (x64), Version=24.0.28113, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core 3.1 Templates 5.0.400 (x64), Version=12.23.41002, Publisher=Microsoft Corporation
+Name=Microsoft .NET Host FX Resolver - 5.0.9 (x64), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=ISS_Drivers_x64, Version=3.10.100.4122, Publisher=Intel Corporation
+Name=IIS Express Application Compatibility Database for x86, Version=undefined, Publisher=undefined
+Name=Microsoft Visual Studio Tools for Applications 2017 x64 Hosting Support, Version=15.0.27520, Publisher=Microsoft Corporation
+Name=NVIDIA Graphics Driver 472.12, Version=472.12, Publisher=NVIDIA Corporation
+Name=NVIDIA GeForce Experience 3.23.0.74, Version=3.23.0.74, Publisher=NVIDIA Corporation
+Name=NVIDIA Optimus Update 38.0.8.0, Version=38.0.8.0, Publisher=NVIDIA Corporation
+Name=NVIDIA PhysX System Software 9.20.0221, Version=9.20.0221, Publisher=NVIDIA Corporation
+Name=NVIDIA Update 38.0.8.0, Version=38.0.8.0, Publisher=NVIDIA Corporation
+Name=NVIDIA FrameView SDK 1.1.4923.29968894, Version=1.1.4923.29968894, Publisher=NVIDIA Corporation
+Name=NVIDIA SHIELD Streaming, Version=7.1.29979887, Publisher=NVIDIA Corporation
+Name=GPX Common OSS (POCO, OpenSSL) and libprotobuf binaries, Version=7.1, Publisher=NVIDIA Corporation
+Name=NVIDIA Install Application, Version=2.1002.357.0, Publisher=NVIDIA Corporation
+Name=NVIDIA ABHub, Version=14.3.61.0, Publisher=NVIDIA Corporation
+Name=NVIDIA Backend, Version=38.0.8.0, Publisher=NVIDIA Corporation
+Name=NVIDIA Container, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA TelemetryApi helper for NvContainer, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA LocalSystem Container, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA Message Bus for NvContainer, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVAPI Monitor plugin for NvContainer, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA NetworkService Container, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA Session Container, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA User Container, Version=1.33, Publisher=NVIDIA Corporation
+Name=NvModuleTracker, Version=6.14.24370.22713, Publisher=NVIDIA Corporation
+Name=NVIDIA NodeJS, Version=3.23.0.74, Publisher=NVIDIA Corporation
+Name=NVIDIA Watchdog Plugin for NvContainer, Version=1.33, Publisher=NVIDIA Corporation
+Name=NVIDIA Telemetry Client, Version=14.3.61.0, Publisher=NVIDIA Corporation
+Name=NVIDIA Virtual Host Controller, Version=3.04.0.1, Publisher=NVIDIA Corporation
+Name=Nvidia Share, Version=3.23.0.74, Publisher=NVIDIA Corporation
+Name=NVIDIA ShadowPlay 3.23.0.74, Version=3.23.0.74, Publisher=NVIDIA Corporation
+Name=NVIDIA SHIELD Wireless Controller Driver, Version=3.23.0.74, Publisher=NVIDIA Corporation
+Name=NVIDIA Update Core, Version=38.0.8.0, Publisher=NVIDIA Corporation
+Name=NVIDIA Virtual Audio 4.13.0.0, Version=4.13.0.0, Publisher=NVIDIA Corporation
+Name=Microsoft ASP.NET Core 5.0.9 Shared Framework (x64), Version=5.0.9.21365, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Targeting Pack - 5.0.0 (x64), Version=40.0.29420, Publisher=Microsoft Corporation
+Name=Microsoft .NET AppHost Pack - 5.0.9 (x64_arm64), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Microsoft Azure Libraries for .NET – v2.9, Version=3.0.0127.060, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core AppHost Pack - 3.1.18 (x64_arm), Version=24.72.30314, Publisher=Microsoft Corporation
+Name=VS JIT Debugger, Version=16.0.102.0, Publisher=Microsoft Corporation
+Name=Metasploit-framework v6.0.36, Version=6.0.36.1, Publisher=Rapid7 Release Engineering <r7_re@rapid7.com>
+Name=Universal CRT Tools x64, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Windows App Certification Kit Native Components, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Killer Performance Driver Suite UWD, Version=2.4.1541, Publisher=Rivet Networks
+Name=Microsoft .NET Runtime - 5.0.9 (x64), Version=40.36.30309, Publisher=Microsoft Corporation
+Name=Microsoft Windows Desktop Runtime - 5.0.9 (x64), Version=40.36.30315, Publisher=Microsoft Corporation
+Name=VNC Viewer 6.20.529, Version=6.20.529.42646, Publisher=RealVNC Ltd
+Name=Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.28.29910, Version=14.28.29910, Publisher=Microsoft Corporation
+Name=Microsoft ODBC Driver 17 for SQL Server, Version=17.5.1.1, Publisher=Microsoft Corporation
+Name=Intel(R) Management Engine Driver, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Windows SDK DirectX x64 Remote, Version=10.1.19041.685, Publisher=Microsoft Corporation
+Name=Intel(R) Icls, Version=1.0.0.0, Publisher=Intel Corporation
+Name=Microsoft Azure Authoring Tools - v2.9.6, Version=2.9.8899.26, Publisher=Microsoft Corporation
+Name=Epic Games Launcher Prerequisites (x64), Version=1.0.0.0, Publisher=Epic Games, Inc.
+Name=Microsoft ASP.NET Core Module for IIS Express, Version=12.2.18292.0, Publisher=Microsoft Corporation
+Name=Microsoft .NET Core 5.0 Templates 5.0.400 (x64), Version=20.3.57386, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core Module V2 for IIS Express, Version=13.1.20087.0, Publisher=Microsoft Corporation
+Name=Microsoft ASP.NET Core 3.1.10 Targeting Pack (x64), Version=3.1.10.20520, Publisher=Microsoft Corporation
+Name=RingCentral, Version=21.3.30, Publisher=RingCentral
+Name=Burp Suite Community Edition 2021.3.1, Version=2021.3.1, Publisher=PortSwigger Web Security
+Name=Cisco Webex Meetings, Version=41.2.4, Publisher=Cisco Webex LLC
+Name=balenaEtcher 1.5.122, Version=1.5.122, Publisher=Balena Inc.
+Name=Discord, Version=0.0.309, Publisher=Discord Inc.
+Name=GitHub Desktop, Version=2.7.1, Publisher=GitHub, Inc.
+Name=GoToMeeting 10.17.0.19796, Version=10.17.0.19796, Publisher=LogMeIn, Inc.
+Name=Microsoft OneDrive, Version=21.170.0822.0002, Publisher=Microsoft Corporation
+Name=Slack, Version=4.19.0, Publisher=Slack Technologies Inc.
+Name=Microsoft Teams, Version=1.4.00.11161, Publisher=Microsoft Corporation
+Name=WinDirStat 1.1.2, Version=undefined, Publisher=undefined
+Name=Zoho Assist, Version=111.0.3.150, Publisher=Zoho Corporation
+Name=Zoom, Version=5.7.4 (804), Publisher=Zoom Video Communications, Inc.
+Name=Microsoft Visual Studio Code (User), Version=1.57.1, Publisher=Microsoft Corporation
